@@ -10,7 +10,7 @@ queries are written for MySQL 8.0 and were tested and executed in MySQL Workbenc
 
 ## Created By
 
-Name: Areeba
+Name:Umna Areeb
 Email: umnaareeb11@gmail.com
 Tool: MySQL Workbench 8.0
 Dataset: Superstore Sales Dataset (Kaggle, real dataset — 9,994 rows, 793 customers,
